@@ -1,4 +1,9 @@
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+## UPDATE:
+
+Fork criado com o intuito de alterar o domínio do **Centro Universitário 7 de Setembro - UNI7**.
+A instituição de ensino deixou de utilizar o domínio "uni7.edu.br" e passou a utilizar o "**sempreuni7.com.br**", logo, de modo que seus alunos possam continuar utilizando o modo educacional das plataformas JetBrains, fora realizado este fork.
+
 # swot
 
 JetBrains uses this **swot** repository to grant free licenses for JetBrains tools to students and teachers worldwide. If your email is in one of the domains listed in this repository, you may request your free license from JetBrains. Visit http://jetbrains.com/student to request!
